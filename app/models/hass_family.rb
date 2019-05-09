@@ -1,0 +1,2 @@
+class HassFamily < ApplicationRecord
+end
